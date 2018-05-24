@@ -1,2 +1,2 @@
 # firststep
-first step in java script
+first step in phyton language
